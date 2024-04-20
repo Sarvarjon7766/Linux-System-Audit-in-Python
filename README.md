@@ -10,14 +10,18 @@ cd RunningPrograms
 
 Running the Program
 To run the program, use the following command in your terminal:
-python3 running_programs.py
+python3 index.py
 
 
 About the Program
 Start: Click to start the program.
+
 Stop: Click to stop the program.
+
 Sort: Click to sort the data by other running programs.
+
 Save: Click to save the running program data and choose a location.
+
 Authors
 Your Name (@Sarvarjon7766)
 
