@@ -5,7 +5,7 @@ Linux System Audit Control Program
 This program creates a simple GUI that displays running programs on Linux. The program is built using Python 3, tkinter, ttk, subprocess, messagebox, filedialog, and docx modules.
 To install the program, ensure you have Python 3 and pip installed. Then, clone the repository and navigate to the directory:
 
-git clone https://github.com/yourgithub/RunningPrograms.git
+git clone https://github.com/Sarvarjon7766/Linux-System-Audit-in-Python.git
 cd RunningPrograms
 
 Running the Program
